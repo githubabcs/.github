@@ -1,0 +1,15 @@
+{
+    "name": "GitHub ABCs Organization Workflow",
+    "description": "ABCs Organisation CI starter workflow.",
+    "iconName": "ghabcs-workflow-icon",
+    "categories": [
+        "csharp",
+        "javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$",
+        ".*\\.cs$"
+    ]
+}
